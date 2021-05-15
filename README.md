@@ -7,5 +7,5 @@
 #### This is '####' version
 
 
-# Git Branch
-1. This line is not in the main branch but for feature-1 branch
+# This is only visible for feature-1 branch
+## Version Control is Awesome!
